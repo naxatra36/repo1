@@ -1,2 +1,3 @@
+#add two numbers
 a,b=map(int,input().split())
-print(a+b)
+print("Their sum is ",a+b)
